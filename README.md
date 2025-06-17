@@ -7,6 +7,11 @@
 - 🤖 React / Next.js / Tailwind / AI APIs  
 - 📫 gaoxiu333@gmail.com  
 
+<br/>
+<br/>
+<br/>
+
+
 <img alt="Night Coding" height="200" src="./assets/hello-world.gif" align="right"/>
 
 ### Tech Stack
@@ -30,6 +35,8 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)&nbsp;
 ![Drizzle](https://img.shields.io/badge/-Drizzle-0C0C0C?style=flat&logo=drizzle)  
 
+<br/>
+<br/>
 
 ### GitHub Analytics
 
