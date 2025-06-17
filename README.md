@@ -1,51 +1,47 @@
-## Hi there 👋
+## Hey there! I'm Xiu
+
+### About Me
+- 🔭 Building full-stack + AI stuff  
+- 🌱 Exploring Drizzle, LangChain  
+- 👯 Open to TypeScript / AI tool collabs  
+- 🤖 React / Next.js / Tailwind / AI APIs  
+- 📫 gaoxiu333@gmail.com  
+
+<img alt="Night Coding" height="200" src="./assets/hello-world.gif" align="right"/>
+
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  \
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
+![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=flat&logo=turborepo)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  \
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0A0A0A?style=flat&logo=shadcnui)&nbsp;
+![React Query](https://img.shields.io/badge/-React_Query-000?style=flat&logo=reactquery&logoColor=FF4154)  \
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-05122A?style=flat&logo=githubcopilot)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-1B1F23?style=flat&logo=cursor&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-1A202C?style=flat&logo=langchain)  \
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)&nbsp;
+![Drizzle](https://img.shields.io/badge/-Drizzle-0C0C0C?style=flat&logo=drizzle)  
 
 
-**oNo500/oNo500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Analytics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?style=flat&logo=drizzle)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
-![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=visualstudiocode)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-05122A?style=flat&logo=radixui)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
-![React Query](https://img.shields.io/badge/-React_Query-05122A?style=flat&logo=reactquery)
-![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=obsidian)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-05122A?style=flat&logo=githubcopilot)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ono500&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ono500&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ono500&show_icons=true&theme=transparent)
+<p align="center">
+  <a href="https://github.com/oNo500">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ono500&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ono500&layout=compact&langs_count=8&theme=transparent"/>
+  </a>
+</p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ono500&hide_progress=true)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ono500\&rank_icon=github)
-
+### Weekly development breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
