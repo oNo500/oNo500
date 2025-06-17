@@ -12,14 +12,14 @@
 ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  \
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  \
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
 ![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=flat&logo=turborepo)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  \
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite&logoColor=646CFF)  \
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0A0A0A?style=flat&logo=shadcnui)&nbsp;
 ![React Query](https://img.shields.io/badge/-React_Query-000?style=flat&logo=reactquery&logoColor=FF4154)  \
