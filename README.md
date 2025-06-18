@@ -51,4 +51,13 @@
 ### Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   8 hrs 8 mins    █████████████████▓░░░░░░░   70.39 %
+Markdown     3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.93 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
+
 <!--END_SECTION:waka-->
