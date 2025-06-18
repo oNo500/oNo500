@@ -38,14 +38,14 @@
 <br/>
 <br/>
 
-### GitHub Analytics
+<!-- ### GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/oNo500">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ono500&rank_icon=github"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ono500&layout=compact&langs_count=8&theme=transparent"/>
   </a>
-</p>
+</p> -->
 
 
 ### Weekly development breakdown
