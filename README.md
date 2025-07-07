@@ -12,7 +12,7 @@
 <br/>
 
 
-<img alt="Night Coding" height="200" src="./assets/hello-world.gif" align="right"/>
+<img alt="Night Coding" style="height:200px" height="200" src="./assets/hello-world.gif" align="right"/>
 
 ### Tech Stack
 
