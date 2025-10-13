@@ -29,7 +29,8 @@
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0A0A0A?style=flat&logo=shadcnui)&nbsp;
 ![React Query](https://img.shields.io/badge/-React_Query-000?style=flat&logo=reactquery&logoColor=FF4154)  \
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-05122A?style=flat&logo=githubcopilot)&nbsp;
-![Cursor](https://img.shields.io/badge/-Cursor-1B1F23?style=flat&logo=cursor&logoColor=white)&nbsp;
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-1B1F23?logo=cursor-ai-white&style=flat)&nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=claude&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-1A202C?style=flat&logo=langchain)  \
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)&nbsp;
